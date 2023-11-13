@@ -1,0 +1,15 @@
+/* *{
+    width: 500px;
+    
+} */
+
+button{
+    color: rgb(255, 255, 255);
+    background-color: rgb(99, 0, 0)
+    
+}
+
+.App{
+    text-align: center;
+    margin: 100px auto;
+}
